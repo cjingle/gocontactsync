@@ -1,0 +1,38 @@
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\Icon.ico
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\Logo.png
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\GOContactSync.exe
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\GOContactSync.pdb
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\Google.GData.Client.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\Google.GData.Contacts.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\Google.GData.Extensions.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\bin\Release\Office.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.AboutForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.ConflictResolverForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.ContactPreview.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.DeleteDuplicatesForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.Properties.Resources.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.SettingsForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\GoogleContactsSync.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\GOContactSync.exe
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GO Contacts Sync\XP\GoogleContactsSync\obj\Release\GOContactSync.pdb
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\GOContactSync.exe
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\GOContactSync.pdb
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\Icon.ico
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\Logo.png
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\GOContactSync.exe
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\GOContactSync.pdb
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\Google.GData.Client.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\Google.GData.Contacts.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\Google.GData.Extensions.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\bin\Release\Office.dll
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.AboutForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.ConflictResolverForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.ContactPreview.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.DeleteDuplicatesForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.Properties.Resources.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\WebGear.GoogleContactsSync.SettingsForm.resources
+C:\Documents and Settings\Jeremy.Azevedo\Desktop\GOContactSync\GoogleContactsSync\obj\Release\GoogleContactsSync.csproj.GenerateResource.Cache
