@@ -1,0 +1,1 @@
+%WINDIR%\Microsoft.NET\Framework\v3.5\MSBuild.exe GoogleContactsSync.sln /t:Rebuild /p:Configuration=Release /v:quiet
